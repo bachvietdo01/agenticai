@@ -4,7 +4,7 @@ Here’s a polished `README.md` for your GitHub repo:
 
 # 🧠 Agentic AI Researcher
 
-Agentic AI Researcher** is an autonomous multi-agent system built with the OpenAI SDK that conducts in-depth research on any given topic and delivers a comprehensive report straight to your inbox. It orchestrates a team of intelligent agents—each with specialized roles—to search the web, analyze information, synthesize insights, and generate high-quality written content. Demo here: https://huggingface.co/spaces/bachdo01/research_agent
+**Agentic AI Researcher** is an autonomous multi-agent system built with the OpenAI SDK that conducts in-depth research on any given topic and delivers a comprehensive report straight to your inbox. It orchestrates a team of intelligent agents—each with specialized roles—to search the web, analyze information, synthesize insights, and generate high-quality written content. Demo here: https://huggingface.co/spaces/bachdo01/research_agent
 ---
 
 ## 🚀 Features

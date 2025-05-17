@@ -1,7 +1,7 @@
 from agents import Runner, trace, gen_trace_id
 from search_agent import search_agent
 from planner_agent import planner_agent, WebSearchPlan, WebSearchQuery
-from reserach_agent import research_agent, ReportData
+from research_agent import research_agent, ReportData
 from email_agent import email_agent
 import asyncio
 

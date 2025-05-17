@@ -1,8 +1,0 @@
-My name is Bach. I was born and raised in Saigon, a vibrant and culturally rich city in southern Vietnam. I later moved to New York City, where I studied Mathematics and Computer Science. I obtained BS in Mathematics and MS in Computer Science from Columbia University. After that, I began my Ph.D. in Mathematical Statistics at the University of Michigan in Ann Arbor—a quiet, intellectually stimulating place that's been a great environment for research.
-
-I'm passionate about advancing the field of statistical machine learning by developing innovative models and methodologies. In particular, I'm interested in building the foundation for the next generation of personalized AI systems—tools that can boost productivity and open up new avenues for human creativity.
-
-My research focuses on non-parametric Bayesian statistics and the theory of mixture models, especially under both well-specified and misspecified settings.
-
-Outside of academics, I enjoy weight training and photography. Both give me a creative and physical outlet that helps balance the intensity of my research work.
-

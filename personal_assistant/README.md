@@ -1,6 +1,6 @@
 # Agentic AI Personal Assistant
 
-Agentic AI Personal Assistant is an ambitious project that leverages LangGraph to build a powerful agentic AI system capable of using tools like web browsing, web search, file management, Wikipedia, and Python code execution to handle complex tasks on the user's behalf. It's essentially a lightweight automation agent. The project also incorporates Anthropic's Evaluator-Optimizer pattern to enhance performance and decision-making.
+Agentic AI Personal Assistant is an ambitious project that leverages LangGraph to build a powerful agentic AI system capable of using tools like web browsing, web search, file management, Wikipedia, and Python code execution to handle complex tasks on the user's behalf. It's essentially a lightweight automation agent. The project also incorporates [Anthropic's Evaluator-Optimizer pattern](https://www.anthropic.com/engineering/building-effective-agents) to enhance performance and decision-making.
 
 
 ## Tools Provided to Agentic AI PA

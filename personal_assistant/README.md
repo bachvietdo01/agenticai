@@ -19,4 +19,4 @@ uv run app.py
 
 ### Demon
 
-[demo_imge](https://github.com/bachvietdo01/agenticai/blob/main/personal_assistant/pa_demo.png?raw=true)
+[demo](https://github.com/bachvietdo01/agenticai/blob/main/personal_assistant/pa_demo.png?raw=true)

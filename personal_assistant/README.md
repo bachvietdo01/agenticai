@@ -16,3 +16,7 @@ Agentic AI Personal Assistant is an ambitious project that leverages LangGraph t
 ```
 uv run app.py
 ```
+
+### Demon
+
+[demo_imge](https://github.com/bachvietdo01/agenticai/blob/main/personal_assistant/pa_demo.png?raw=true)

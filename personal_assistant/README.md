@@ -18,7 +18,7 @@ uv run app.py
 ```
 ### Langgraph Flow graph
 
-
+!(pa_graph)[https://github.com/bachvietdo01/agenticai/blob/main/personal_assistant/graph.png?raw=true]
 
 
 ### Agentic AI PA Demo

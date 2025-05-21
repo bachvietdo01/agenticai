@@ -1,4 +1,4 @@
-# EngineeringTeam Crew
+# Agentic AI Engineering Team
 
 This is an ambitious Agentic AI project where we build a crew of software engineering team consisting of an engineering lead, a front-end engineer, a back-end engineer, and a test engineer. The engineering lead reads the requirements and assigns tasks to the front-end, back-end, and test engineers for implementation and testing.
 

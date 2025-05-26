@@ -4,6 +4,10 @@ A conversational AI-powered flight assistant capable of helping users search des
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/060469bc-c69f-4612-b75e-ca46ff05d414
+
 ## ✨ Features
 
 - 🗣️ **Conversational Interface**: Natural language chat with voice output.

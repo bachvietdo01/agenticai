@@ -4,7 +4,7 @@ A conversational AI-powered flight assistant capable of helping users search des
 
 ---
 
-## Demo
+## Demo: (turn on your audio)
 
 https://github.com/user-attachments/assets/060469bc-c69f-4612-b75e-ca46ff05d414
 

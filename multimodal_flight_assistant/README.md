@@ -6,7 +6,7 @@ A conversational AI-powered flight assistant capable of helping users search des
 
 ## Demo (turn on your audio)
 
-HD Demo GDrive Video: https://drive.google.com/file/d/1tE1wdGf1MNKLyrqw31dFGH-cb0qqywRu/view?usp=sharing
+HD Demo GDrive Video: https://drive.google.com/file/d/1WaaUpC79UQX-84-1mpJbk-DK3iiz-CCI/view?usp=sharing
 
 https://github.com/user-attachments/assets/060469bc-c69f-4612-b75e-ca46ff05d414
 
